@@ -67,3 +67,5 @@ const counterFactory = () => {
   }
   return obj;
 };
+
+console.log(counterFactory());
